@@ -1,4 +1,3 @@
-```sql
 CREATE TABLE students (
     id INT PRIMARY KEY AUTO_INCREMENT,
     nim VARCHAR(20),
@@ -7,7 +6,7 @@ CREATE TABLE students (
 
 INSERT INTO students (nim, nama)
 VALUES (
-    'REPLACE_NIM',
-    'REPLACE_NAME'
+    'H1H024019',
+    'Difa Tamaya'
 );
-```
+
